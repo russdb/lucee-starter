@@ -1,0 +1,346 @@
+2019-12-10 20:56:37.313 lucee.runtime.config.XMLConfigServerFactory ===================================================================
+SERVER CONTEXT
+-------------------------------------------------------------------
+- config:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context
+- loader-version:6.2
+- core-version:5.3.3.62
+===================================================================
+
+2019-12-10 20:56:37.322 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\lucee-server.xml
+2019-12-10 20:56:37.335 application:xml com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderFactoryImpl is used as DocumentBuilderFactory
+2019-12-10 20:56:37.502 lucee.runtime.config.XMLConfigWebFactory start reading config
+2019-12-10 20:56:37.519 lucee.runtime.config.XMLConfigWebFactory fixed LFI
+2019-12-10 20:56:37.520 lucee.runtime.config.XMLConfigWebFactory fixed salt
+2019-12-10 20:56:37.522 lucee.runtime.config.XMLConfigWebFactory fixed S3
+2019-12-10 20:56:37.523 lucee.runtime.config.XMLConfigWebFactory fixed PSQ
+2019-12-10 20:56:37.525 lucee.runtime.config.XMLConfigWebFactory fixed logging
+2019-12-10 20:56:37.526 lucee.runtime.config.XMLConfigWebFactory fixed Extension
+2019-12-10 20:56:37.526 lucee.runtime.config.XMLConfigWebFactory fixed component mappings
+2019-12-10 20:56:37.597 lucee.runtime.config.XMLConfigWebFactory reload xml
+2019-12-10 20:56:37.599 lucee.runtime.config.XMLConfigWebFactory deploy web context
+2019-12-10 20:56:37.600 lucee.runtime.config.XMLConfigWebFactory loaded config
+2019-12-10 20:56:37.603 lucee.runtime.config.XMLConfigWebFactory loaded constants
+2019-12-10 20:56:37.614 lucee.runtime.config.XMLConfigWebFactory loaded loggers
+2019-12-10 20:56:37.616 lucee.runtime.config.XMLConfigWebFactory loaded temp dir
+2019-12-10 20:56:37.623 lucee.runtime.config.XMLConfigWebFactory loaded id
+2019-12-10 20:56:37.624 lucee.runtime.config.XMLConfigWebFactory loaded version
+2019-12-10 20:56:37.631 lucee.runtime.config.XMLConfigWebFactory loaded security
+2019-12-10 20:56:37.633 lucee.runtime.config.XMLConfigWebFactory loaded lib
+2019-12-10 20:56:37.634 lucee.runtime.config.XMLConfigWebFactory loaded system
+2019-12-10 20:56:37.635 lucee.runtime.config.XMLConfigWebFactory loaded resource providers
+2019-12-10 20:56:37.638 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\library\tag\Dump.cfc
+2019-12-10 20:56:37.660 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\library\tag\MediaPlayer.cfc
+2019-12-10 20:56:37.675 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\library\tag\build\_background.png
+2019-12-10 20:56:37.676 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\library\tag\build\_bigplay.png
+2019-12-10 20:56:37.678 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\library\tag\build\_controls.png
+2019-12-10 20:56:37.680 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\library\tag\build\_loading.gif
+2019-12-10 20:56:37.682 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\library\tag\build\_player.swf
+2019-12-10 20:56:37.696 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\library\tag\build\_player.xap
+2019-12-10 20:56:37.699 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\library\tag\build\background_png.cfm
+2019-12-10 20:56:37.700 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\library\tag\build\bigplay_png.cfm
+2019-12-10 20:56:37.707 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\library\tag\build\controls_png.cfm
+2019-12-10 20:56:37.709 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\library\tag\build\jquery.js.cfm
+2019-12-10 20:56:37.721 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\library\tag\build\loading_gif.cfm
+2019-12-10 20:56:37.723 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\library\tag\build\mediaelement-and-player.min.js.cfm
+2019-12-10 20:56:37.765 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\library\tag\build\mediaelementplayer.min.css.cfm
+2019-12-10 20:56:37.772 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\library\tag\build\player.swf.cfm
+2019-12-10 20:56:37.774 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\library\tag\build\player.xap.cfm
+2019-12-10 20:56:37.776 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\library\tag\build\jquery\jquery-1.12.4.min.js
+2019-12-10 20:56:37.857 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\library\function\writeDump.cfm
+2019-12-10 20:56:37.858 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\library\function\dump.cfm
+2019-12-10 20:56:37.863 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\library\function\location.cfm
+2019-12-10 20:56:37.869 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\library\function\threadJoin.cfm
+2019-12-10 20:56:37.870 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\library\function\threadTerminate.cfm
+2019-12-10 20:56:37.876 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\library\function\throw.cfm
+2019-12-10 20:56:37.884 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\library\function\trace.cfm
+2019-12-10 20:56:37.891 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\library\function\transactionCommit.cfm
+2019-12-10 20:56:37.893 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\library\function\transactionRollback.cfm
+2019-12-10 20:56:37.899 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\library\function\transactionSetsavepoint.cfm
+2019-12-10 20:56:37.901 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\library\function\writeLog.cfm
+2019-12-10 20:56:37.903 lucee.runtime.config.XMLConfigWebFactory loaded filesystem
+2019-12-10 20:56:37.904 lucee.runtime.config.XMLConfigWebFactory loaded extension bundles
+2019-12-10 20:56:37.904 lucee.runtime.config.XMLConfigWebFactory loaded webservice
+2019-12-10 20:56:37.910 lucee.runtime.config.XMLConfigWebFactory loaded orm
+2019-12-10 20:56:37.914 lucee.runtime.config.XMLConfigWebFactory loaded cache handlers
+2019-12-10 20:56:37.915 lucee.runtime.config.XMLConfigWebFactory loaded charset
+2019-12-10 20:56:37.920 lucee.runtime.config.XMLConfigWebFactory loaded application
+2019-12-10 20:56:37.924 lucee.runtime.config.XMLConfigWebFactory loaded mappings
+2019-12-10 20:56:37.926 lucee.runtime.config.XMLConfigWebFactory loaded rest
+2019-12-10 20:56:37.927 lucee.runtime.config.XMLConfigWebFactory loaded extensions
+2019-12-10 20:56:37.928 lucee.runtime.config.XMLConfigWebFactory loaded page pool
+2019-12-10 20:56:37.933 lucee.runtime.config.XMLConfigWebFactory loaded datasources
+2019-12-10 20:56:37.935 lucee.runtime.config.XMLConfigWebFactory loaded cache
+2019-12-10 20:56:37.936 lucee.runtime.config.XMLConfigWebFactory loaded custom tag mappings
+2019-12-10 20:56:37.937 lucee.runtime.config.XMLConfigWebFactory loaded tags
+2019-12-10 20:56:37.937 lucee.runtime.config.XMLConfigWebFactory loaded regional
+2019-12-10 20:56:37.938 lucee.runtime.config.XMLConfigWebFactory loaded compiler
+2019-12-10 20:56:37.939 lucee.runtime.config.XMLConfigWebFactory loaded scope
+2019-12-10 20:56:37.939 lucee.runtime.config.XMLConfigWebFactory loaded mail
+2019-12-10 20:56:37.941 lucee.runtime.config.XMLConfigWebFactory loaded search
+2019-12-10 20:56:37.941 lucee.runtime.config.XMLConfigWebFactory loaded scheduled tasks
+2019-12-10 20:56:37.942 lucee.runtime.config.XMLConfigWebFactory loaded debug
+2019-12-10 20:56:37.943 lucee.runtime.config.XMLConfigWebFactory loaded error
+2019-12-10 20:56:37.945 lucee.runtime.config.XMLConfigWebFactory loaded cfx
+2019-12-10 20:56:37.947 lucee.runtime.config.XMLConfigWebFactory loaded component
+2019-12-10 20:56:37.948 lucee.runtime.config.XMLConfigWebFactory loaded update
+2019-12-10 20:56:37.948 lucee.runtime.config.XMLConfigWebFactory loaded java
+2019-12-10 20:56:37.949 lucee.runtime.config.XMLConfigWebFactory loaded setting
+2019-12-10 20:56:37.951 lucee.runtime.config.XMLConfigWebFactory loaded proxy
+2019-12-10 20:56:37.957 lucee.runtime.config.XMLConfigWebFactory loaded remote clients
+2019-12-10 20:56:37.957 lucee.runtime.config.XMLConfigWebFactory loaded video
+2019-12-10 20:56:37.958 lucee.runtime.config.XMLConfigWebFactory loaded flex
+2019-12-10 20:56:38.17 lucee.runtime.config.XMLConfigWebFactory loaded settings2
+2019-12-10 20:56:38.18 lucee.runtime.config.XMLConfigWebFactory loaded listeners
+2019-12-10 20:56:38.23 lucee.runtime.config.XMLConfigWebFactory loaded dump writers
+2019-12-10 20:56:38.23 lucee.runtime.config.XMLConfigWebFactory loaded gateways
+2019-12-10 20:56:38.27 lucee.runtime.config.XMLConfigWebFactory loaded exe log
+2019-12-10 20:56:38.28 lucee.runtime.config.XMLConfigWebFactory loaded queue
+2019-12-10 20:56:38.31 lucee.runtime.config.XMLConfigWebFactory loaded monitors
+2019-12-10 20:56:38.31 lucee.runtime.config.XMLConfigWebFactory loaded login
+2019-12-10 20:56:38.33 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\context\admin\debug\Debug.cfc
+2019-12-10 20:56:38.35 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\context\admin\debug\Field.cfc
+2019-12-10 20:56:38.37 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\context\admin\debug\Group.cfc
+2019-12-10 20:56:38.39 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\context\admin\debug\Classic.cfc
+2019-12-10 20:56:38.49 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\context\admin\debug\Modern.cfc
+2019-12-10 20:56:38.57 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\context\admin\debug\Comment.cfc
+2019-12-10 20:56:38.70 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\context\admin\dbdriver\types\IDriver.cfc
+2019-12-10 20:56:38.72 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\context\admin\dbdriver\types\Driver.cfc
+2019-12-10 20:56:38.73 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\context\admin\dbdriver\types\IDatasource.cfc
+2019-12-10 20:56:38.79 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\context\admin\dbdriver\types\IDriverSelector.cfc
+2019-12-10 20:56:38.82 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\context\admin\dbdriver\types\Field.cfc
+2019-12-10 20:56:38.90 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\context\admin\dbdriver\Other.cfc
+2019-12-10 20:56:38.100 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\context\admin\cdriver\Cache.cfc
+2019-12-10 20:56:38.103 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\context\admin\cdriver\RamCache.cfc
+2019-12-10 20:56:38.111 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\context\admin\cdriver\Field.cfc
+2019-12-10 20:56:38.114 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\context\admin\cdriver\Group.cfc
+2019-12-10 20:56:38.115 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\context\admin\mailservers\Other.cfc
+2019-12-10 20:56:38.117 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\context\admin\mailservers\GMail.cfc
+2019-12-10 20:56:38.119 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\context\admin\mailservers\GMX.cfc
+2019-12-10 20:56:38.121 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\context\admin\mailservers\iCloud.cfc
+2019-12-10 20:56:38.123 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\context\admin\mailservers\Yahoo.cfc
+2019-12-10 20:56:38.124 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\context\admin\mailservers\Outlook.cfc
+2019-12-10 20:56:38.126 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\context\admin\mailservers\MailCom.cfc
+2019-12-10 20:56:38.127 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\context\admin\mailservers\MailServer.cfc
+2019-12-10 20:56:38.129 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\context\admin\gdriver\TaskGatewayDriver.cfc
+2019-12-10 20:56:38.131 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\context\admin\gdriver\DirectoryWatcher.cfc
+2019-12-10 20:56:38.139 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\context\admin\gdriver\MailWatcher.cfc
+2019-12-10 20:56:38.149 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\context\admin\gdriver\Gateway.cfc
+2019-12-10 20:56:38.151 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\context\admin\gdriver\Field.cfc
+2019-12-10 20:56:38.153 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\context\admin\gdriver\Group.cfc
+2019-12-10 20:56:38.155 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\context\admin\logging\appender\DatasourceAppender.cfc
+2019-12-10 20:56:38.164 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\context\admin\logging\appender\ConsoleAppender.cfc
+2019-12-10 20:56:38.171 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\context\admin\logging\appender\ResourceAppender.cfc
+2019-12-10 20:56:38.173 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\context\admin\logging\appender\Appender.cfc
+2019-12-10 20:56:38.175 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\context\admin\logging\appender\Field.cfc
+2019-12-10 20:56:38.177 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\context\admin\logging\appender\Group.cfc
+2019-12-10 20:56:38.179 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\context\admin\logging\layout\ClassicLayout.cfc
+2019-12-10 20:56:38.182 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\context\admin\logging\layout\HTMLLayout.cfc
+2019-12-10 20:56:38.184 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\context\admin\logging\layout\PatternLayout.cfc
+2019-12-10 20:56:38.186 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\context\admin\logging\layout\XMLLayout.cfc
+2019-12-10 20:56:38.188 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\context\admin\logging\layout\Layout.cfc
+2019-12-10 20:56:38.189 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\context\admin\logging\layout\Field.cfc
+2019-12-10 20:56:38.198 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\context\admin\logging\layout\Group.cfc
+2019-12-10 20:56:38.200 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\security\cacerts
+2019-12-10 20:56:38.208 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\lucee-server\context\bin\jacob-x64.dll
+2019-12-10 20:56:49.635 lucee.runtime.config.XMLConfigWebFactory start reading config
+2019-12-10 20:56:49.636 lucee.runtime.config.XMLConfigWebFactory fixed LFI
+2019-12-10 20:56:49.637 lucee.runtime.config.XMLConfigWebFactory fixed salt
+2019-12-10 20:56:49.637 lucee.runtime.config.XMLConfigWebFactory fixed S3
+2019-12-10 20:56:49.637 lucee.runtime.config.XMLConfigWebFactory fixed PSQ
+2019-12-10 20:56:49.638 lucee.runtime.config.XMLConfigWebFactory fixed logging
+2019-12-10 20:56:49.638 lucee.runtime.config.XMLConfigWebFactory fixed Extension
+2019-12-10 20:56:49.638 lucee.runtime.config.XMLConfigWebFactory fixed component mappings
+2019-12-10 20:56:49.639 lucee.runtime.config.XMLConfigWebFactory deploy web context
+2019-12-10 20:56:49.639 lucee.runtime.config.XMLConfigWebFactory loaded config
+2019-12-10 20:56:49.639 lucee.runtime.config.XMLConfigWebFactory loaded constants
+2019-12-10 20:56:49.642 lucee.runtime.config.XMLConfigWebFactory loaded loggers
+2019-12-10 20:56:49.643 lucee.runtime.config.XMLConfigWebFactory loaded temp dir
+2019-12-10 20:56:49.643 lucee.runtime.config.XMLConfigWebFactory loaded id
+2019-12-10 20:56:49.644 lucee.runtime.config.XMLConfigWebFactory loaded version
+2019-12-10 20:56:49.644 lucee.runtime.config.XMLConfigWebFactory loaded security
+2019-12-10 20:56:49.700 lucee.runtime.config.XMLConfigWebFactory loaded lib
+2019-12-10 20:56:49.700 lucee.runtime.config.XMLConfigWebFactory loaded system
+2019-12-10 20:56:49.701 lucee.runtime.config.XMLConfigWebFactory loaded resource providers
+2019-12-10 20:56:49.728 lucee.runtime.config.XMLConfigWebFactory loaded filesystem
+2019-12-10 20:56:49.735 lucee.runtime.config.XMLConfigWebFactory loaded extension bundles
+2019-12-10 20:56:49.736 lucee.runtime.config.XMLConfigWebFactory loaded webservice
+2019-12-10 20:56:49.736 lucee.runtime.config.XMLConfigWebFactory loaded orm
+2019-12-10 20:56:49.737 lucee.runtime.config.XMLConfigWebFactory loaded cache handlers
+2019-12-10 20:56:49.737 lucee.runtime.config.XMLConfigWebFactory loaded charset
+2019-12-10 20:56:49.738 lucee.runtime.config.XMLConfigWebFactory loaded application
+2019-12-10 20:56:49.739 lucee.runtime.config.XMLConfigWebFactory loaded mappings
+2019-12-10 20:56:49.739 lucee.runtime.config.XMLConfigWebFactory loaded rest
+2019-12-10 20:56:49.740 lucee.runtime.config.XMLConfigWebFactory loaded extensions
+2019-12-10 20:56:49.740 lucee.runtime.config.XMLConfigWebFactory loaded page pool
+2019-12-10 20:56:49.741 lucee.runtime.config.XMLConfigWebFactory loaded datasources
+2019-12-10 20:56:49.742 lucee.runtime.config.XMLConfigWebFactory loaded cache
+2019-12-10 20:56:49.742 lucee.runtime.config.XMLConfigWebFactory loaded custom tag mappings
+2019-12-10 20:56:49.743 lucee.runtime.config.XMLConfigWebFactory loaded tags
+2019-12-10 20:56:49.743 lucee.runtime.config.XMLConfigWebFactory loaded regional
+2019-12-10 20:56:49.743 lucee.runtime.config.XMLConfigWebFactory loaded compiler
+2019-12-10 20:56:49.744 lucee.runtime.config.XMLConfigWebFactory loaded scope
+2019-12-10 20:56:49.744 lucee.runtime.config.XMLConfigWebFactory loaded mail
+2019-12-10 20:56:49.744 lucee.runtime.config.XMLConfigWebFactory loaded search
+2019-12-10 20:56:49.745 lucee.runtime.config.XMLConfigWebFactory loaded scheduled tasks
+2019-12-10 20:56:49.746 lucee.runtime.config.XMLConfigWebFactory loaded debug
+2019-12-10 20:56:49.746 lucee.runtime.config.XMLConfigWebFactory loaded error
+2019-12-10 20:56:49.747 lucee.runtime.config.XMLConfigWebFactory loaded cfx
+2019-12-10 20:56:49.747 lucee.runtime.config.XMLConfigWebFactory loaded component
+2019-12-10 20:56:49.748 lucee.runtime.config.XMLConfigWebFactory loaded update
+2019-12-10 20:56:49.748 lucee.runtime.config.XMLConfigWebFactory loaded java
+2019-12-10 20:56:49.748 lucee.runtime.config.XMLConfigWebFactory loaded setting
+2019-12-10 20:56:49.749 lucee.runtime.config.XMLConfigWebFactory loaded proxy
+2019-12-10 20:56:49.750 lucee.runtime.config.XMLConfigWebFactory loaded remote clients
+2019-12-10 20:56:49.750 lucee.runtime.config.XMLConfigWebFactory loaded video
+2019-12-10 20:56:49.750 lucee.runtime.config.XMLConfigWebFactory loaded flex
+2019-12-10 20:56:49.769 lucee.runtime.config.XMLConfigWebFactory loaded settings2
+2019-12-10 20:56:49.770 lucee.runtime.config.XMLConfigWebFactory loaded listeners
+2019-12-10 20:56:49.771 lucee.runtime.config.XMLConfigWebFactory loaded dump writers
+2019-12-10 20:56:49.771 lucee.runtime.config.XMLConfigWebFactory loaded gateways
+2019-12-10 20:56:49.772 lucee.runtime.config.XMLConfigWebFactory loaded exe log
+2019-12-10 20:56:49.772 lucee.runtime.config.XMLConfigWebFactory loaded queue
+2019-12-10 20:56:49.773 lucee.runtime.config.XMLConfigWebFactory loaded monitors
+2019-12-10 20:56:49.773 lucee.runtime.config.XMLConfigWebFactory loaded login
+2019-12-10 20:56:49.788 lucee.runtime.config.XMLConfigWebFactory ===================================================================
+WEB CONTEXT (715ac1eadb52589f1f563f62dcba4af6)
+-------------------------------------------------------------------
+- config:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee
+- webroot:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\
+- hash:715ac1eadb52589f1f563f62dcba4af6
+- label:715ac1eadb52589f1f563f62dcba4af6
+===================================================================
+
+2019-12-10 20:56:49.790 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\lucee-web.xml.cfm
+2019-12-10 20:56:49.805 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\locales\pt-PT-date.df
+2019-12-10 20:56:49.810 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\video\video.xml
+2019-12-10 20:56:49.813 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\bin\jacob-x64.dll
+2019-12-10 20:56:49.837 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\security\antisamy-basic.xml
+2019-12-10 20:56:49.844 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\context\lucee-context.lar
+2019-12-10 20:56:49.855 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\context\lucee-admin.lar
+2019-12-10 20:56:49.875 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\context\lucee-doc.lar
+2019-12-10 20:56:49.886 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\context\component-dump.cfm
+2019-12-10 20:56:49.891 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\context\Component.cfc
+2019-12-10 20:56:49.898 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\context\Component.lucee
+2019-12-10 20:56:49.900 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\context\Application.cfc
+2019-12-10 20:56:49.902 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\context\form.cfm
+2019-12-10 20:56:49.918 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\context\graph.cfm
+2019-12-10 20:56:49.924 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\context\wddx.cfm
+2019-12-10 20:56:49.925 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\context\lucee-applet.cfm
+2019-12-10 20:56:49.927 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\context\lucee-applet.jar
+2019-12-10 20:56:49.937 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\context\admin.cfm
+2019-12-10 20:56:49.938 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\context\swfobject.js
+2019-12-10 20:56:49.940 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\context\swfobject.js.cfm
+2019-12-10 20:56:49.945 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\context\mediaplayer.swf
+2019-12-10 20:56:49.956 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\context\mediaplayer.swf.cfm
+2019-12-10 20:56:49.958 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\context\admin\plugin\Plugin.cfc
+2019-12-10 20:56:49.968 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\context\admin\plugin\Note\language.xml
+2019-12-10 20:56:49.974 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\context\admin\plugin\Note\overview.cfm
+2019-12-10 20:56:49.976 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\context\admin\plugin\Note\Action.cfc
+2019-12-10 20:56:49.984 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\components\lucee\extension\gateway\TaskGateway.cfc
+2019-12-10 20:56:49.986 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\components\lucee\extension\gateway\DummyGateway.cfc
+2019-12-10 20:56:49.993 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\components\lucee\extension\gateway\DirectoryWatcher.cfc
+2019-12-10 20:56:50.8 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\components\lucee\extension\gateway\DirectoryWatcherListener.cfc
+2019-12-10 20:56:50.15 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\components\lucee\extension\gateway\MailWatcher.cfc
+2019-12-10 20:56:50.25 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\components\lucee\extension\gateway\MailWatcherListener.cfc
+2019-12-10 20:56:50.32 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\context\admin\resources\language\en.xml
+2019-12-10 20:56:50.43 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\context\admin\resources\language\de.xml
+2019-12-10 20:56:50.57 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\context\admin\debug\Debug.cfc
+2019-12-10 20:56:50.59 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\context\admin\debug\Field.cfc
+2019-12-10 20:56:50.62 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\context\admin\debug\Group.cfc
+2019-12-10 20:56:50.64 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\context\admin\cdriver\Cache.cfc
+2019-12-10 20:56:50.65 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\context\admin\cdriver\Field.cfc
+2019-12-10 20:56:50.67 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\context\admin\cdriver\Group.cfc
+2019-12-10 20:56:50.69 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\context\admin\dbdriver\types\IDriver.cfc
+2019-12-10 20:56:50.71 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\context\admin\dbdriver\types\Driver.cfc
+2019-12-10 20:56:50.73 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\context\admin\dbdriver\types\IDatasource.cfc
+2019-12-10 20:56:50.75 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\context\admin\dbdriver\types\IDriverSelector.cfc
+2019-12-10 20:56:50.80 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\context\admin\dbdriver\types\Field.cfc
+2019-12-10 20:56:50.83 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\context\admin\gdriver\Gateway.cfc
+2019-12-10 20:56:50.85 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\context\admin\gdriver\Field.cfc
+2019-12-10 20:56:50.86 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\context\admin\gdriver\Group.cfc
+2019-12-10 20:56:50.88 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\context\admin\logging\appender\Appender.cfc
+2019-12-10 20:56:50.89 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\context\admin\logging\appender\Field.cfc
+2019-12-10 20:56:50.92 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\context\admin\logging\appender\Group.cfc
+2019-12-10 20:56:50.92 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\context\admin\logging\layout\Layout.cfc
+2019-12-10 20:56:50.95 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\context\admin\logging\layout\Field.cfc
+2019-12-10 20:56:50.96 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\context\admin\logging\layout\Group.cfc
+2019-12-10 20:56:50.99 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\context\templates\error\error.cfm
+2019-12-10 20:56:50.101 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\context\templates\error\error-neo.cfm
+2019-12-10 20:56:50.102 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\context\templates\error\error-public.cfm
+2019-12-10 20:56:50.117 lucee.runtime.config.XMLConfigWebFactory start reading config
+2019-12-10 20:56:50.118 lucee.runtime.config.XMLConfigWebFactory fixed LFI
+2019-12-10 20:56:50.119 lucee.runtime.config.XMLConfigWebFactory fixed salt
+2019-12-10 20:56:50.119 lucee.runtime.config.XMLConfigWebFactory fixed S3
+2019-12-10 20:56:50.119 lucee.runtime.config.XMLConfigWebFactory fixed PSQ
+2019-12-10 20:56:50.127 lucee.runtime.config.XMLConfigWebFactory fixed logging
+2019-12-10 20:56:50.128 lucee.runtime.config.XMLConfigWebFactory fixed Extension
+2019-12-10 20:56:50.128 lucee.runtime.config.XMLConfigWebFactory fixed component mappings
+2019-12-10 20:56:50.136 lucee.runtime.config.XMLConfigWebFactory reload xml
+2019-12-10 20:56:50.139 lucee.runtime.config.ConfigWebUtil write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\context\formtag-applet.cfm
+2019-12-10 20:56:50.148 lucee.runtime.config.ConfigWebUtil write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\context\formtag-applet.jar
+2019-12-10 20:56:50.168 lucee.runtime.config.ConfigWebUtil write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\context\formtag-form.cfm
+2019-12-10 20:56:50.168 lucee.runtime.config.XMLConfigWebFactory deploy web context
+2019-12-10 20:56:50.169 lucee.runtime.config.XMLConfigWebFactory loaded config
+2019-12-10 20:56:50.171 lucee.runtime.config.XMLConfigWebFactory loaded constants
+2019-12-10 20:56:50.179 lucee.runtime.config.XMLConfigWebFactory loaded loggers
+2019-12-10 20:56:50.180 lucee.runtime.config.XMLConfigWebFactory loaded temp dir
+2019-12-10 20:56:50.187 lucee.runtime.config.XMLConfigWebFactory loaded id
+2019-12-10 20:56:50.187 lucee.runtime.config.XMLConfigWebFactory loaded version
+2019-12-10 20:56:50.188 lucee.runtime.config.XMLConfigWebFactory loaded security
+2019-12-10 20:56:50.241 lucee.runtime.config.XMLConfigWebFactory loaded lib
+2019-12-10 20:56:50.241 lucee.runtime.config.XMLConfigWebFactory loaded system
+2019-12-10 20:56:50.242 lucee.runtime.config.XMLConfigWebFactory loaded resource providers
+2019-12-10 20:56:50.248 lucee.runtime.config.XMLConfigWebFactory loaded filesystem
+2019-12-10 20:56:50.248 lucee.runtime.config.XMLConfigWebFactory loaded extension bundles
+2019-12-10 20:56:50.248 lucee.runtime.config.XMLConfigWebFactory loaded webservice
+2019-12-10 20:56:50.249 lucee.runtime.config.XMLConfigWebFactory loaded orm
+2019-12-10 20:56:50.249 lucee.runtime.config.XMLConfigWebFactory loaded cache handlers
+2019-12-10 20:56:50.250 lucee.runtime.config.XMLConfigWebFactory loaded charset
+2019-12-10 20:56:50.251 lucee.runtime.config.XMLConfigWebFactory loaded application
+2019-12-10 20:56:50.309 lucee.runtime.config.XMLConfigWebFactory loaded mappings
+2019-12-10 20:56:50.310 lucee.runtime.config.XMLConfigWebFactory loaded rest
+2019-12-10 20:56:50.310 lucee.runtime.config.XMLConfigWebFactory loaded extensions
+2019-12-10 20:56:50.311 lucee.runtime.config.XMLConfigWebFactory loaded page pool
+2019-12-10 20:56:50.311 lucee.runtime.config.XMLConfigWebFactory loaded datasources
+2019-12-10 20:56:50.312 lucee.runtime.config.XMLConfigWebFactory loaded cache
+2019-12-10 20:56:50.313 lucee.runtime.config.XMLConfigWebFactory loaded custom tag mappings
+2019-12-10 20:56:50.315 lucee.runtime.config.XMLConfigWebFactory loaded tags
+2019-12-10 20:56:50.315 lucee.runtime.config.XMLConfigWebFactory loaded regional
+2019-12-10 20:56:50.316 lucee.runtime.config.XMLConfigWebFactory loaded compiler
+2019-12-10 20:56:50.317 lucee.runtime.config.XMLConfigWebFactory loaded scope
+2019-12-10 20:56:50.318 lucee.runtime.config.XMLConfigWebFactory loaded mail
+2019-12-10 20:56:50.318 lucee.runtime.config.XMLConfigWebFactory loaded search
+2019-12-10 20:56:50.327 lucee.runtime.config.XMLConfigWebFactory loaded scheduled tasks
+2019-12-10 20:56:50.327 lucee.runtime.config.XMLConfigWebFactory loaded debug
+2019-12-10 20:56:50.328 lucee.runtime.config.XMLConfigWebFactory loaded error
+2019-12-10 20:56:50.328 lucee.runtime.config.XMLConfigWebFactory loaded cfx
+2019-12-10 20:56:50.330 lucee.runtime.config.XMLConfigWebFactory loaded component
+2019-12-10 20:56:50.331 lucee.runtime.config.XMLConfigWebFactory loaded update
+2019-12-10 20:56:50.331 lucee.runtime.config.XMLConfigWebFactory loaded java
+2019-12-10 20:56:50.332 lucee.runtime.config.XMLConfigWebFactory loaded setting
+2019-12-10 20:56:50.332 lucee.runtime.config.XMLConfigWebFactory loaded proxy
+2019-12-10 20:56:50.334 lucee.runtime.config.XMLConfigWebFactory loaded remote clients
+2019-12-10 20:56:50.335 lucee.runtime.config.XMLConfigWebFactory loaded video
+2019-12-10 20:56:50.335 lucee.runtime.config.XMLConfigWebFactory loaded flex
+2019-12-10 20:56:50.357 lucee.runtime.config.XMLConfigWebFactory loaded settings2
+2019-12-10 20:56:50.358 lucee.runtime.config.XMLConfigWebFactory loaded listeners
+2019-12-10 20:56:50.358 lucee.runtime.config.XMLConfigWebFactory loaded dump writers
+2019-12-10 20:56:50.362 lucee.runtime.config.XMLConfigWebFactory loaded gateways
+2019-12-10 20:56:50.366 lucee.runtime.config.XMLConfigWebFactory loaded exe log
+2019-12-10 20:56:50.366 lucee.runtime.config.XMLConfigWebFactory loaded queue
+2019-12-10 20:56:50.367 lucee.runtime.config.XMLConfigWebFactory loaded monitors
+2019-12-10 20:56:50.367 lucee.runtime.config.XMLConfigWebFactory loaded login
+2019-12-10 20:56:50.368 lucee.runtime.config.XMLConfigWebFactory added tag meta data
+2019-12-10 20:56:50.370 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\components\org\lucee\cfml\HelperBase.cfc
+2019-12-10 20:56:50.385 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\components\org\lucee\cfml\Feed.cfc
+2019-12-10 20:56:50.393 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\components\org\lucee\cfml\Ftp.cfc
+2019-12-10 20:56:50.405 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\components\org\lucee\cfml\Http.cfc
+2019-12-10 20:56:50.411 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\components\org\lucee\cfml\Mail.cfc
+2019-12-10 20:56:50.419 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\components\org\lucee\cfml\Query.cfc
+2019-12-10 20:56:50.431 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\components\org\lucee\cfml\Result.cfc
+2019-12-10 20:56:50.433 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\components\org\lucee\cfml\Administrator.cfc
+2019-12-10 20:56:50.459 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\components\org\lucee\cfml\orm\IEventHandler.cfc
+2019-12-10 20:56:50.465 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\components\org\lucee\cfml\orm\INamingStrategy.cfc
+2019-12-10 20:56:50.467 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\components\org\lucee\cfml\test\LuceeTestSuite.cfc
+2019-12-10 20:56:50.469 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\components\org\lucee\cfml\test\LuceeTestSuiteRunner.cfc
+2019-12-10 20:56:50.472 lucee.runtime.config.XMLConfigFactory write file:E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT\WEB-INF\lucee\components\org\lucee\cfml\test\LuceeTestCase.cfc

@@ -1,0 +1,33 @@
+10-Dec-2019 20:56:30.564 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/9.0.11
+10-Dec-2019 20:56:30.597 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Aug 11 2018 19:47:23 UTC
+10-Dec-2019 20:56:30.598 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         9.0.11.0
+10-Dec-2019 20:56:30.598 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+10-Dec-2019 20:56:30.598 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+10-Dec-2019 20:56:30.599 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+10-Dec-2019 20:56:30.599 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             E:\devStuff\WebDev\coldfusion\lucee\jre
+10-Dec-2019 20:56:30.599 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_202-b08
+10-Dec-2019 20:56:30.600 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+10-Dec-2019 20:56:30.600 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         E:\devStuff\WebDev\coldfusion\lucee
+10-Dec-2019 20:56:30.600 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         E:\devStuff\WebDev\coldfusion\lucee
+10-Dec-2019 20:56:30.601 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=E:\devStuff\WebDev\coldfusion\lucee\conf\logging.properties
+10-Dec-2019 20:56:30.601 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+10-Dec-2019 20:56:30.601 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+10-Dec-2019 20:56:30.601 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+10-Dec-2019 20:56:30.601 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+10-Dec-2019 20:56:30.601 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=E:\devStuff\WebDev\coldfusion\lucee
+10-Dec-2019 20:56:30.603 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=E:\devStuff\WebDev\coldfusion\lucee
+10-Dec-2019 20:56:30.603 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=E:\devStuff\WebDev\coldfusion\lucee\temp
+10-Dec-2019 20:56:30.603 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [E:\devStuff\WebDev\coldfusion\lucee\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;E:\devStuff\shells\cmder_mini\vendor\conemu-maximus5\ConEmu\Scripts;E:\devStuff\shells\cmder_mini\vendor\conemu-maximus5;E:\devStuff\shells\cmder_mini\vendor\conemu-maximus5\ConEmu;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\ProgramData\chocolatey\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Go\bin;C:\Program Files (x86)\Yarn\bin\;C:\Program Files (x86)\GNU\GnuPG\pub;C:\Users\russd\scoop\apps\python\current\Scripts;C:\Users\russd\scoop\shims;C:\Users\russd\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Users\russd\AppData\Local\Programs\VSCodium\bin;C:\Users\russd\AppData\Roaming\npm;C:\Users\russd\go\bin;C:\Users\russd\AppData\Local\Yarn\bin;C:\Users\russd\AppData\Local\hyper\app-3.0.2\resources\bin;C:\Users\russd\AppData\Local\Keybase\;.]
+10-Dec-2019 20:56:30.770 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8888"]
+10-Dec-2019 20:56:31.415 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+10-Dec-2019 20:56:31.426 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+10-Dec-2019 20:56:31.428 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+10-Dec-2019 20:56:31.429 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1329 ms
+10-Dec-2019 20:56:31.467 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+10-Dec-2019 20:56:31.468 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/9.0.11
+10-Dec-2019 20:56:31.479 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT]
+10-Dec-2019 20:56:32.056 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+10-Dec-2019 20:56:50.483 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\devStuff\WebDev\coldfusion\lucee\webapps\ROOT] has finished in [19,003] ms
+10-Dec-2019 20:56:50.486 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8888"]
+10-Dec-2019 20:56:50.496 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+10-Dec-2019 20:56:50.499 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 19069 ms
